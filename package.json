@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "preinstall": "tar -xzf mtrProjectC.tar.gz && cd bundle/programs/server && npm install",
+    "preinstall": "cd bundle/programs/server && npm install",
     "start": "node bundle/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
