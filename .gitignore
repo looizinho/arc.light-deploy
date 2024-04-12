@@ -1,3 +1,4 @@
 .DS_Store
 mtrProjectC.tar.gz
+ios/*
 bundle/programs/server/node_modules/*
