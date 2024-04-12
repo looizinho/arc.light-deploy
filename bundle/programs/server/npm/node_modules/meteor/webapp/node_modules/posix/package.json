@@ -1,0 +1,27 @@
+{
+    "name": "posix",
+    "version": "4.2.0",
+    "description": "The missing POSIX system calls",
+    "license": "MIT",
+    "keywords" : [
+        "posix", "rlimit", "getrlimit", "setrlimit", "ulimit", "setuid",
+        "setgid", "seteuid", "setegid", "chroot", "setreuid", "setregid",
+        "getpgrp", "setsid", "setpgid", "getpwnam", "getgrnam", "uid", "gid",
+        "initgroups", "syslog", "setlogmask", "gethostname", "sethostname",
+        "swapon", "swapoff"
+    ],
+    "homepage": "http://github.com/ohmu/node-posix",
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/ohmu/node-posix.git"
+    },
+    "author" : "Mika Eloranta <mel@ohmu.fi>",
+    "main" : "./lib/posix",
+    "dependencies" : {
+        "nan": "^2.14.x"
+    },
+    "scripts" : {
+        "test" : "make test"
+    },
+    "engines" : { "node": ">= 0.10.0" }
+}

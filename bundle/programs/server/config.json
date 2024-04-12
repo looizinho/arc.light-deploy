@@ -1,0 +1,9 @@
+{
+  "meteorRelease": "METEOR@3.0-beta.6",
+  "appId": "ca9w0p5ovi4o.i4ofjg6auvt2",
+  "clientArchs": [
+    "web.browser",
+    "web.browser.legacy",
+    "web.cordova"
+  ]
+}

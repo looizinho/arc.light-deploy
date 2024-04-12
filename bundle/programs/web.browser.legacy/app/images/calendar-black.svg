@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 128 128" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Untitled" vectornator:layerName="Untitled">
+<g opacity="1" vectornator:layerName="g">
+<path d="M115.519 7.77202L102.263 7.77202L102.263 20.1146C102.263 22.629 100.205 24.686 97.6912 24.686C95.1312 24.686 93.1198 22.629 93.1198 20.1146L93.1198 7.77202L34.8816 7.77202L34.8816 20.1146C34.8816 22.629 32.8702 24.686 30.3103 24.686C27.796 24.686 25.7389 22.629 25.7389 20.1146L25.7389 7.77202L12.482 7.77202C5.62502 7.77202 0.00234053 13.3948 0.00234053 20.2975L0.00234053 31.5888L128 31.5888L128 20.2975C128 13.3947 122.377 7.77202 115.52 7.77202L115.519 7.77202Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M0.00117026 99.6553C0.00117026 106.558 5.624 112.181 12.4809 112.181L87.6791 112.181L75.4279 99.9296C70.0795 94.5812 70.0795 85.8955 75.4279 80.5471C80.7763 75.1987 89.462 75.1987 94.8104 80.5471L99.0161 84.7527L113.735 70.0337C117.575 66.1938 123.152 65.0967 127.998 66.788L127.998 40.7321L0 40.7321L0.00117026 99.6553Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M34.8809 4.57134C34.8809 2.05703 32.8695 0 30.3096 0C27.7952 0 25.7382 2.05703 25.7382 4.57134L25.7382 7.77129L34.8809 7.77129L34.8809 4.57134Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M102.262 4.57134C102.262 2.05703 100.205 0 97.6904 0C95.1305 0 93.1191 2.05703 93.1191 4.57134L93.1191 7.77129L102.262 7.77129L102.262 4.57134Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M120.193 76.4899L99.0114 97.6717L88.3544 87.009C86.5715 85.2261 83.6745 85.2261 81.8916 87.009C80.1087 88.7919 80.1087 91.6889 81.8916 93.4718L95.7828 107.363C96.6399 108.22 97.8056 108.7 99.0169 108.7C100.228 108.7 101.394 108.22 102.251 107.363L126.663 82.9469C128.446 81.164 128.446 78.267 126.663 76.4841C124.874 74.7012 121.983 74.7012 120.194 76.4898L120.193 76.4899Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,591 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "5039330027d10309f67d26cf45392e6bb0898a1c.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/5039330027d10309f67d26cf45392e6bb0898a1c.js?meteor_js_resource=true",
+      "size": 743898,
+      "hash": "5039330027d10309f67d26cf45392e6bb0898a1c",
+      "sri": "5FGhVZberNI6ifrHmf88Ni2Uear9fqm/aPMZjZU2zeoy48+JTzYA1hYp5wiMPeVJ6fRCsNJd6TI48JFAOEClXw=="
+    },
+    {
+      "path": "5039330027d10309f67d26cf45392e6bb0898a1c.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/5039330027d10309f67d26cf45392e6bb0898a1c.stats.json?meteor_js_resource=true",
+      "size": 21050,
+      "hash": "8efa14815a0204aa5a994be34b96b62d7ce37ec5",
+      "sri": "9ZrnXz77Jr+a2233IPwu82H9NBjdNMt30Z3XkpPhmBeez06rhExx/QIe0P5g52eolWGgmLHcxIfuVRUVtIbioQ=="
+    },
+    {
+      "path": "a55d0791537fd92c987a3d5b257895b25eddff5f.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/a55d0791537fd92c987a3d5b257895b25eddff5f.css?meteor_css_resource=true",
+      "size": 5757,
+      "hash": "a55d0791537fd92c987a3d5b257895b25eddff5f",
+      "sri": "tKd0MwnJgnP2wSpIghyxHwgYkGIf3qoZ6nLFmvfSQcTdlzYiXklT+y8+HDrIQYcfE1tF6vlByx4uFd3xJ5o6XQ=="
+    },
+    {
+      "path": "packages/promise/promise.d.ts",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/promise/promise.d.ts",
+      "size": 633,
+      "hash": "4aa461da7ad90c74a51ddfccc84b055fc0403119",
+      "sri": "6MVw86BmnkmTtXXlCxaH8k7xIUcMZK4O57Nnu82uI5MJT9Fbru7Yv71SuHx+giKUM9wkRs7WkpqPWjADS+U2qw=="
+    },
+    {
+      "path": "packages/tracker/tracker.d.ts",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/tracker/tracker.d.ts",
+      "size": 6096,
+      "hash": "93ebe1d7d6aed2b029129079014e3ebfd5e8bb8c",
+      "sri": "D7pwjdFz5YPTxAyDXrqMNZ9v65eWU+XZ8ASp8aLJaTSkoBScGaLOCxlnSzLKyfsYugreqjaynnaiUGpNhW/ldw=="
+    },
+    {
+      "path": "app/app.webmanifest",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/app.webmanifest",
+      "size": 1172,
+      "hash": "9d5d4ef2e29104071b4ba437c5c90cb8c6bb499c",
+      "sri": null
+    },
+    {
+      "path": "app/service-worker.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/service-worker.js",
+      "size": 4164,
+      "hash": "2f17c263cc783db599498490aa7dc73c1704fa77",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/7segment.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/7segment.ttf",
+      "size": 4392,
+      "hash": "4d28beab50dd188286cc758294501cc665c96da3",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Monoid-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Monoid-Regular.ttf",
+      "size": 79248,
+      "hash": "39672a836301ed77066668642302cc6e0707cfc9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SF-Compact-Rounded-Thin.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SF-Compact-Rounded-Thin.otf",
+      "size": 4518960,
+      "hash": "75773041f767ee8f9a9c54937170aad534eff5e9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SF-Pro-Rounded-Regular.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SF-Pro-Rounded-Regular.otf",
+      "size": 4525988,
+      "hash": "2e75ba4603f722333692630a2768c746e9ba0cd0",
+      "sri": null
+    },
+    {
+      "path": "app/icons/icon_1024.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon_1024.png",
+      "size": 326589,
+      "hash": "308b478a3ae39f0072510985367310740b1b05fa",
+      "sri": null
+    },
+    {
+      "path": "app/icons/icon_192.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon_192.png",
+      "size": 24588,
+      "hash": "7c06278767aaa0c585fa06c85c95795f8833f032",
+      "sri": null
+    },
+    {
+      "path": "app/icons/icon_384.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon_384.png",
+      "size": 70560,
+      "hash": "3ca4f4f6cca961f3a374785da9cdea3eeefe9804",
+      "sri": null
+    },
+    {
+      "path": "app/icons/icon_512.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon_512.png",
+      "size": 111046,
+      "hash": "feff2da5df606e28005ba1d188c4d21572917d26",
+      "sri": null
+    },
+    {
+      "path": "app/images/__random-dark.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/__random-dark.svg",
+      "size": 2382,
+      "hash": "76242b9f77d6568ed774379843cce2671fc71d02",
+      "sri": null
+    },
+    {
+      "path": "app/images/bg-dark-2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/bg-dark-2.png",
+      "size": 983854,
+      "hash": "a598901694a90a01650c66f9ec7f634f20142d06",
+      "sri": null
+    },
+    {
+      "path": "app/images/blog.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/blog.svg",
+      "size": 2874,
+      "hash": "d1430c4d4896d734036ebab71399c42b4aa14fc3",
+      "sri": null
+    },
+    {
+      "path": "app/images/calendar-black.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/calendar-black.svg",
+      "size": 2611,
+      "hash": "14a9b598fbcfc6ed32298b94b5648f3e0fadbe60",
+      "sri": null
+    },
+    {
+      "path": "app/images/calendar-white copy.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/calendar-white copy.svg",
+      "size": 2611,
+      "hash": "ca9136322c616bb40b5910f96e5976106229f56a",
+      "sri": null
+    },
+    {
+      "path": "app/images/calendar-white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/calendar-white.svg",
+      "size": 2611,
+      "hash": "ca9136322c616bb40b5910f96e5976106229f56a",
+      "sri": null
+    },
+    {
+      "path": "app/images/clone.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/clone.svg",
+      "size": 1132,
+      "hash": "f5697958915f993bb9d9488055d67ae66cd9f941",
+      "sri": null
+    },
+    {
+      "path": "app/images/code.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/code.svg",
+      "size": 2106,
+      "hash": "966d372ee48e85ba8122c044dab99223065e6127",
+      "sri": null
+    },
+    {
+      "path": "app/images/day-white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/day-white.svg",
+      "size": 3828,
+      "hash": "d558d741c0a67db68dbb55e027831d1d1e827682",
+      "sri": null
+    },
+    {
+      "path": "app/images/daynight-black.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/daynight-black.svg",
+      "size": 4544,
+      "hash": "6c3b72e6814994ff98cabe304a0b99de940ad32a",
+      "sri": null
+    },
+    {
+      "path": "app/images/daynight-white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/daynight-white.svg",
+      "size": 4544,
+      "hash": "aef1b7ab7af5333a37103dac8cc78c49824b1f6d",
+      "sri": null
+    },
+    {
+      "path": "app/images/gear.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/gear.svg",
+      "size": 3844,
+      "hash": "712bb77644c229419a2f30591afd28ff8e7def54",
+      "sri": null
+    },
+    {
+      "path": "app/images/icon-64@3x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icon-64@3x.png",
+      "size": 14151,
+      "hash": "e48d3c6cc5e7977f1bfd54986f804dcfffe02f42",
+      "sri": null
+    },
+    {
+      "path": "app/images/indi.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/indi.svg",
+      "size": 1040,
+      "hash": "9899784ea1651bb879de8f1e6fc5e87cea27cf25",
+      "sri": null
+    },
+    {
+      "path": "app/images/link-dark.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/link-dark.svg",
+      "size": 2382,
+      "hash": "76242b9f77d6568ed774379843cce2671fc71d02",
+      "sri": null
+    },
+    {
+      "path": "app/images/link-light.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/link-light.svg",
+      "size": 2382,
+      "hash": "d682bed45d7806d22375012e91e87527ccd24274",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo-arc.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo-arc.png",
+      "size": 445619,
+      "hash": "8239a3f044ec9e724524f261765410e553ed8476",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo-arc_192.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo-arc_192.png",
+      "size": 37841,
+      "hash": "c6eb29f1e1cdebf12942d9a1b74e4c5ea574098d",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo-arc_ext.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo-arc_ext.png",
+      "size": 160053,
+      "hash": "c095a94a9e4f2ac0f553b1b017e773687c6e7740",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo-arc_int.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo-arc_int.png",
+      "size": 20476,
+      "hash": "883832420e880f889eb1f0f0fd89c70f1cd9c343",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo-el-white.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo-el-white.png",
+      "size": 4871,
+      "hash": "f5f2e07f5cad9be3a938dd16a05da4abcab8b963",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo.png",
+      "size": 477223,
+      "hash": "9f7a63258ffe90f5d9216756a71c808bcd716801",
+      "sri": null
+    },
+    {
+      "path": "app/images/night-white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/night-white.svg",
+      "size": 1975,
+      "hash": "918980ed2429e8df168449070b18c7c52a5e3f68",
+      "sri": null
+    },
+    {
+      "path": "app/images/palette-black.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/palette-black.svg",
+      "size": 3147,
+      "hash": "ab9323b2840c8b084de97bf4f22ce05f9303704f",
+      "sri": null
+    },
+    {
+      "path": "app/images/palette-white-v2.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/palette-white-v2.svg",
+      "size": 3094,
+      "hash": "6a3d6c4cd5c44a0dc23118cae13d8108ccd145ba",
+      "sri": null
+    },
+    {
+      "path": "app/images/palette-white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/palette-white.svg",
+      "size": 3147,
+      "hash": "5d36567ad41f92d0332bda946e8ab8bcb8b5782a",
+      "sri": null
+    },
+    {
+      "path": "app/images/password-white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/password-white.svg",
+      "size": 3663,
+      "hash": "681f4b0e9a84f505bde4541f39a56436d232826c",
+      "sri": null
+    },
+    {
+      "path": "app/images/plaza-white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/plaza-white.svg",
+      "size": 5723,
+      "hash": "2693429d285e69def2b46252e15834ad0b7917b2",
+      "sri": null
+    },
+    {
+      "path": "app/images/plaza.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/plaza.png",
+      "size": 4494,
+      "hash": "b9193ab6f78f10b516f20d537ab4a0570aae6a6f",
+      "sri": null
+    },
+    {
+      "path": "app/images/promarc.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/promarc.svg",
+      "size": 41295,
+      "hash": "62978f369b3783819b8ea99c62bb9da5a6cd1d00",
+      "sri": null
+    },
+    {
+      "path": "app/images/question-orange.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/question-orange.svg",
+      "size": 1699,
+      "hash": "8e333d1672735843235c084f959f419dcd8d7222",
+      "sri": null
+    },
+    {
+      "path": "app/images/question-white-inv.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/question-white-inv.svg",
+      "size": 2491,
+      "hash": "dd71af9d5ea5d81da6758dcab140c4f704251c8f",
+      "sri": null
+    },
+    {
+      "path": "app/images/question-white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/question-white.svg",
+      "size": 1699,
+      "hash": "b39d64b029685d7bfabd3b39bec0c0b029210691",
+      "sri": null
+    },
+    {
+      "path": "app/images/randm.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/randm.svg",
+      "size": 3745,
+      "hash": "1438f18f9363bf54c614a2ba4d23effa818ca53a",
+      "sri": null
+    },
+    {
+      "path": "app/images/random-dark2.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/random-dark2.svg",
+      "size": 2680,
+      "hash": "22d2a4c20ce8f1f0ee3a281d172c9d5661896e5d",
+      "sri": null
+    },
+    {
+      "path": "app/images/random-dark3.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/random-dark3.svg",
+      "size": 2680,
+      "hash": "22d2a4c20ce8f1f0ee3a281d172c9d5661896e5d",
+      "sri": null
+    },
+    {
+      "path": "app/images/random-light.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/random-light.svg",
+      "size": 2680,
+      "hash": "9ad3785c8f0684ecfae6b730c0aead8a4e52358c",
+      "sri": null
+    },
+    {
+      "path": "app/images/random.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/random.svg",
+      "size": 1474,
+      "hash": "f7412ba3693ec4a55627ccecd8f3323400c642ac",
+      "sri": null
+    },
+    {
+      "path": "app/images/settings-black.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/settings-black.svg",
+      "size": 2067,
+      "hash": "0dcb611824404b375440a26697942b2a27ba0467",
+      "sri": null
+    },
+    {
+      "path": "app/images/settings-white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/settings-white.svg",
+      "size": 2067,
+      "hash": "d91ba83cc680e209bba48eae69fb97e92a252de2",
+      "sri": null
+    },
+    {
+      "path": "app/images/teste.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/teste.svg",
+      "size": 2224,
+      "hash": "83428c021675d1012958aeabac3ebaeebc9879cc",
+      "sri": null
+    },
+    {
+      "path": "app/images/unlink-dark.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/unlink-dark.svg",
+      "size": 2219,
+      "hash": "9055d0cabf66e04648107743809132873832c00a",
+      "sri": null
+    },
+    {
+      "path": "app/images/unlink-light.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/unlink-light.svg",
+      "size": 2219,
+      "hash": "d563b38b088374733eeca053a4d222c26ee00c2a",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "9b78d26d85aa479abcffe2df7269a30dfe69e96f"
+    }
+  ]
+}
